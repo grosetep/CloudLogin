@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "340026580608",
+    "firebase_url": "https://eats-edc3e.firebaseio.com",
+    "project_id": "eats-edc3e",
+    "storage_bucket": "eats-edc3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340026580608:android:00fff4b5a1d3ac99",
+        "android_client_info": {
+          "package_name": "com.estrategiamovilmx.eats.elbuensaborarenales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340026580608-4og52sbdfrhh4m7jv4g64flcmfd8cmcq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "340026580608-p0fo6gf7h00pt8fdkmt20vrs8b29f12j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "340026580608-7d98vpuhvm290tse131n5569i7h57gpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estrategiamovilmx.eats.elbuensaborarenales",
+            "certificate_hash": "3eb7aa03a726b2be1eb494ca39c10fca811c0b4d"
+          }
+        },
+        {
+          "client_id": "340026580608-lk92dpj8ink9q91142pnpc13fjdioa4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJP8Z0PRpWiIt244JT1Woex-NF6RRgT4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340026580608-4og52sbdfrhh4m7jv4g64flcmfd8cmcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340026580608:android:2e7de36cb7e5ce9c",
+        "android_client_info": {
+          "package_name": "com.eats.estrategiamovilmx.cloudlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340026580608-1piht09dde3p0e1t67p3fqdrb551qvns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eats.estrategiamovilmx.cloudlogin",
+            "certificate_hash": "3eb7aa03a726b2be1eb494ca39c10fca811c0b4d"
+          }
+        },
+        {
+          "client_id": "340026580608-4og52sbdfrhh4m7jv4g64flcmfd8cmcq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "340026580608-p0fo6gf7h00pt8fdkmt20vrs8b29f12j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "340026580608-lk92dpj8ink9q91142pnpc13fjdioa4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJP8Z0PRpWiIt244JT1Woex-NF6RRgT4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340026580608-4og52sbdfrhh4m7jv4g64flcmfd8cmcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

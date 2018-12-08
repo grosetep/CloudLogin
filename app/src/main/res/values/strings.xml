@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CloudLogin</string>
+    <string name="facebook_app_key">200771450687686</string>
+    <string name="facebook_app_secret">2938640b7f61f19ecbeddc433d092c9f</string>
+    <string name="facebook">Facebook</string>
+    <string name="google_plus">Google+</string>
+    <string name="app_key">5ab5af2f524fab28a19708d2</string>
+
+
+    <string name="google_plus_app_key">340026580608-p0fo6gf7h00pt8fdkmt20vrs8b29f12j.apps.googleusercontent.com</string>
+    <string name="google_plus_app_secret">Pwm4h7_xhxkNkzE1UC56DyOx</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="loading">Por favor espere...</string>
+
+</resources>
